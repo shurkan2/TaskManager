@@ -1,0 +1,9 @@
+C:/QT projects/TaskManager/bin/CMakeFiles/TaskManager.dir
+C:/QT projects/TaskManager/bin/CMakeFiles/edit_cache.dir
+C:/QT projects/TaskManager/bin/CMakeFiles/rebuild_cache.dir
+C:/QT projects/TaskManager/bin/CMakeFiles/list_install_components.dir
+C:/QT projects/TaskManager/bin/CMakeFiles/install.dir
+C:/QT projects/TaskManager/bin/CMakeFiles/install/local.dir
+C:/QT projects/TaskManager/bin/CMakeFiles/install/strip.dir
+C:/QT projects/TaskManager/bin/CMakeFiles/TaskManager_autogen_timestamp_deps.dir
+C:/QT projects/TaskManager/bin/CMakeFiles/TaskManager_autogen.dir

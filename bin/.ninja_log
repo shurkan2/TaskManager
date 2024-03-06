@@ -1,0 +1,43 @@
+# ninja log v5
+12	226	7314163443629583	TaskManager_autogen/timestamp	20cd04214d5c8bd1
+12	226	7314163443629583	TaskManager_autogen/mocs_compilation.cpp	20cd04214d5c8bd1
+12	226	7314163443629583	C:/QT projects/TaskManager/bin/TaskManager_autogen/timestamp	20cd04214d5c8bd1
+12	226	7314163443629583	C:/QT projects/TaskManager/bin/TaskManager_autogen/mocs_compilation.cpp	20cd04214d5c8bd1
+886	2796	7314157772625071	CMakeFiles/TaskManager.dir/main.cpp.obj	600a390e38438bb4
+867	2790	7314157772515439	CMakeFiles/TaskManager.dir/TaskManager_autogen/mocs_compilation.cpp.obj	607279c8411c1c1d
+236	2250	7314163463889729	CMakeFiles/TaskManager.dir/mainwindow.cpp.obj	2686579313844ad1
+260	1889	7314163460285012	CMakeFiles/TaskManager.dir/task.cpp.obj	f92d4ece1628aeb3
+2250	2611	7314163467431953	TaskManager.exe	513fcef556cd591b
+13	226	7314204112325603	TaskManager_autogen/timestamp	20cd04214d5c8bd1
+13	226	7314204112325603	TaskManager_autogen/mocs_compilation.cpp	20cd04214d5c8bd1
+13	226	7314204112325603	C:/QT projects/TaskManager/bin/TaskManager_autogen/timestamp	20cd04214d5c8bd1
+13	226	7314204112325603	C:/QT projects/TaskManager/bin/TaskManager_autogen/mocs_compilation.cpp	20cd04214d5c8bd1
+235	2295	7314204133013776	CMakeFiles/TaskManager.dir/mainwindow.cpp.obj	2686579313844ad1
+13	218	7314204744429683	TaskManager_autogen/timestamp	20cd04214d5c8bd1
+13	218	7314204744429683	TaskManager_autogen/mocs_compilation.cpp	20cd04214d5c8bd1
+13	218	7314204744429683	C:/QT projects/TaskManager/bin/TaskManager_autogen/timestamp	20cd04214d5c8bd1
+13	218	7314204744429683	C:/QT projects/TaskManager/bin/TaskManager_autogen/mocs_compilation.cpp	20cd04214d5c8bd1
+247	1913	7314204761392651	CMakeFiles/TaskManager.dir/task.cpp.obj	f92d4ece1628aeb3
+227	2259	7314204764833787	CMakeFiles/TaskManager.dir/mainwindow.cpp.obj	2686579313844ad1
+13	224	7314205067893676	TaskManager_autogen/timestamp	20cd04214d5c8bd1
+13	224	7314205067893676	TaskManager_autogen/mocs_compilation.cpp	20cd04214d5c8bd1
+13	224	7314205067893676	C:/QT projects/TaskManager/bin/TaskManager_autogen/timestamp	20cd04214d5c8bd1
+13	224	7314205067893676	C:/QT projects/TaskManager/bin/TaskManager_autogen/mocs_compilation.cpp	20cd04214d5c8bd1
+234	2210	7314205087753430	CMakeFiles/TaskManager.dir/mainwindow.cpp.obj	2686579313844ad1
+14	231	7314205928805526	TaskManager_autogen/timestamp	20cd04214d5c8bd1
+14	231	7314205928805526	TaskManager_autogen/mocs_compilation.cpp	20cd04214d5c8bd1
+14	231	7314205928805526	C:/QT projects/TaskManager/bin/TaskManager_autogen/timestamp	20cd04214d5c8bd1
+14	231	7314205928805526	C:/QT projects/TaskManager/bin/TaskManager_autogen/mocs_compilation.cpp	20cd04214d5c8bd1
+246	2237	7314205948863763	CMakeFiles/TaskManager.dir/mainwindow.cpp.obj	2686579313844ad1
+13	239	7314206115456721	TaskManager_autogen/timestamp	20cd04214d5c8bd1
+13	239	7314206115456721	TaskManager_autogen/mocs_compilation.cpp	20cd04214d5c8bd1
+13	239	7314206115456721	C:/QT projects/TaskManager/bin/TaskManager_autogen/timestamp	20cd04214d5c8bd1
+13	239	7314206115456721	C:/QT projects/TaskManager/bin/TaskManager_autogen/mocs_compilation.cpp	20cd04214d5c8bd1
+248	2234	7314206135410409	CMakeFiles/TaskManager.dir/mainwindow.cpp.obj	2686579313844ad1
+13	222	7314206225188805	TaskManager_autogen/timestamp	20cd04214d5c8bd1
+13	222	7314206225188805	TaskManager_autogen/mocs_compilation.cpp	20cd04214d5c8bd1
+13	222	7314206225188805	C:/QT projects/TaskManager/bin/TaskManager_autogen/timestamp	20cd04214d5c8bd1
+13	222	7314206225188805	C:/QT projects/TaskManager/bin/TaskManager_autogen/mocs_compilation.cpp	20cd04214d5c8bd1
+231	2244	7314206245399626	CMakeFiles/TaskManager.dir/mainwindow.cpp.obj	2686579313844ad1
+249	2535	7314206248275174	CMakeFiles/TaskManager.dir/taskmanager.cpp.obj	a62a8f856ee3b5f3
+2535	2867	7314206251475466	TaskManager.exe	f7d879480cf5089c
