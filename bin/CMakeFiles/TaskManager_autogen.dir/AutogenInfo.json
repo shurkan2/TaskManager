@@ -254,15 +254,15 @@
 			null
 		],
 		[
-			"C:/QT projects/TaskManager/task.h",
-			"MU",
-			"EWIEGA46WW/moc_task.cpp",
-			null
-		],
-		[
 			"C:/QT projects/TaskManager/taskmanager.h",
 			"MU",
 			"EWIEGA46WW/moc_taskmanager.cpp",
+			null
+		],
+		[
+			"C:/QT projects/TaskManager/user.h",
+			"MU",
+			"EWIEGA46WW/moc_user.cpp",
 			null
 		]
 	],
@@ -340,8 +340,8 @@
 	[
 		[ "C:/QT projects/TaskManager/main.cpp", "MU", null ],
 		[ "C:/QT projects/TaskManager/mainwindow.cpp", "MU", null ],
-		[ "C:/QT projects/TaskManager/task.cpp", "MU", null ],
-		[ "C:/QT projects/TaskManager/taskmanager.cpp", "MU", null ]
+		[ "C:/QT projects/TaskManager/taskmanager.cpp", "MU", null ],
+		[ "C:/QT projects/TaskManager/user.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],

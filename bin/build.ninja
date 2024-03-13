@@ -73,17 +73,17 @@ build CMakeFiles/TaskManager.dir/mainwindow.cpp.obj: CXX_COMPILER__TaskManager_u
   OBJECT_DIR = CMakeFiles\TaskManager.dir
   OBJECT_FILE_DIR = CMakeFiles\TaskManager.dir
 
-build CMakeFiles/TaskManager.dir/task.cpp.obj: CXX_COMPILER__TaskManager_unscanned_Debug C$:/QT$ projects/TaskManager/task.cpp || cmake_object_order_depends_target_TaskManager
+build CMakeFiles/TaskManager.dir/taskmanager.cpp.obj: CXX_COMPILER__TaskManager_unscanned_Debug C$:/QT$ projects/TaskManager/taskmanager.cpp || cmake_object_order_depends_target_TaskManager
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64
-  DEP_FILE = CMakeFiles\TaskManager.dir\task.cpp.obj.d
+  DEP_FILE = CMakeFiles\TaskManager.dir\taskmanager.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -I"C:/QT projects/TaskManager/bin/TaskManager_autogen/include" -isystem C:/msys64/mingw64/include/qt6/QtCore -isystem C:/msys64/mingw64/include/qt6 -isystem C:/msys64/mingw64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/mingw64/include/qt6/QtWidgets -isystem C:/msys64/mingw64/include/qt6/QtGui
   OBJECT_DIR = CMakeFiles\TaskManager.dir
   OBJECT_FILE_DIR = CMakeFiles\TaskManager.dir
 
-build CMakeFiles/TaskManager.dir/taskmanager.cpp.obj: CXX_COMPILER__TaskManager_unscanned_Debug C$:/QT$ projects/TaskManager/taskmanager.cpp || cmake_object_order_depends_target_TaskManager
+build CMakeFiles/TaskManager.dir/user.cpp.obj: CXX_COMPILER__TaskManager_unscanned_Debug C$:/QT$ projects/TaskManager/user.cpp || cmake_object_order_depends_target_TaskManager
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64
-  DEP_FILE = CMakeFiles\TaskManager.dir\taskmanager.cpp.obj.d
+  DEP_FILE = CMakeFiles\TaskManager.dir\user.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -I"C:/QT projects/TaskManager/bin/TaskManager_autogen/include" -isystem C:/msys64/mingw64/include/qt6/QtCore -isystem C:/msys64/mingw64/include/qt6 -isystem C:/msys64/mingw64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/mingw64/include/qt6/QtWidgets -isystem C:/msys64/mingw64/include/qt6/QtGui
   OBJECT_DIR = CMakeFiles\TaskManager.dir
@@ -97,7 +97,7 @@ build CMakeFiles/TaskManager.dir/taskmanager.cpp.obj: CXX_COMPILER__TaskManager_
 #############################################
 # Link the executable TaskManager.exe
 
-build TaskManager.exe: CXX_EXECUTABLE_LINKER__TaskManager_Debug CMakeFiles/TaskManager.dir/TaskManager_autogen/mocs_compilation.cpp.obj CMakeFiles/TaskManager.dir/main.cpp.obj CMakeFiles/TaskManager.dir/mainwindow.cpp.obj CMakeFiles/TaskManager.dir/task.cpp.obj CMakeFiles/TaskManager.dir/taskmanager.cpp.obj | C$:/msys64/mingw64/lib/libQt6Widgets.dll.a C$:/msys64/mingw64/lib/libQt6Gui.dll.a C$:/msys64/mingw64/lib/libQt6Core.dll.a C$:/msys64/mingw64/lib/libQt6EntryPoint.a || TaskManager_autogen TaskManager_autogen_timestamp_deps
+build TaskManager.exe: CXX_EXECUTABLE_LINKER__TaskManager_Debug CMakeFiles/TaskManager.dir/TaskManager_autogen/mocs_compilation.cpp.obj CMakeFiles/TaskManager.dir/main.cpp.obj CMakeFiles/TaskManager.dir/mainwindow.cpp.obj CMakeFiles/TaskManager.dir/taskmanager.cpp.obj CMakeFiles/TaskManager.dir/user.cpp.obj | C$:/msys64/mingw64/lib/libQt6Widgets.dll.a C$:/msys64/mingw64/lib/libQt6Gui.dll.a C$:/msys64/mingw64/lib/libQt6Core.dll.a C$:/msys64/mingw64/lib/libQt6EntryPoint.a || TaskManager_autogen TaskManager_autogen_timestamp_deps
   FLAGS = -DQT_QML_DEBUG -g
   LINK_FLAGS = -mwindows
   LINK_LIBRARIES = C:/msys64/mingw64/lib/libQt6Widgets.dll.a  C:/msys64/mingw64/lib/libQt6Gui.dll.a  C:/msys64/mingw64/lib/libQt6Core.dll.a  -lmpr  -luserenv  -lmingw32  C:/msys64/mingw64/lib/libQt6EntryPoint.a  -lshell32  -ld3d11  -ldxgi  -ldxguid  -ld3d12  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
@@ -199,7 +199,7 @@ build TaskManager_autogen/timestamp TaskManager_autogen/mocs_compilation.cpp | $
 #############################################
 # Phony custom command for CMakeFiles\TaskManager_autogen_timestamp_deps
 
-build CMakeFiles/TaskManager_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/TaskManager_autogen_timestamp_deps: phony C$:/msys64/mingw64/share/qt6/bin/moc.exe C$:/msys64/mingw64/share/qt6/bin/uic.exe C$:/msys64/mingw64/lib/libQt6Core.dll.a C$:/msys64/mingw64/lib/libQt6Widgets.dll.a
+build CMakeFiles/TaskManager_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/TaskManager_autogen_timestamp_deps: phony C$:/msys64/mingw64/share/qt6/bin/uic.exe C$:/msys64/mingw64/lib/libQt6Core.dll.a C$:/msys64/mingw64/share/qt6/bin/moc.exe C$:/msys64/mingw64/lib/libQt6Widgets.dll.a
 
 
 #############################################

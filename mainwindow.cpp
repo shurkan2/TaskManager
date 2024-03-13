@@ -6,9 +6,15 @@ MainWindow::MainWindow(QWidget *parent)
     , ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
+    //qDebug() << QSqlDatabase::drivers();
+    qDebug() << "Application starts" ;
 }
 
 MainWindow::~MainWindow()
 {
     delete ui;
+}
+
+MainWindow::update_all(){
+
 }
